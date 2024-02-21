@@ -1,4 +1,11 @@
-### Hi there 👋
+![_9ed65b7d-1bca-4f11-9ab9-26294207390c](https://github.com/prabhsuratsingh/prabhsuratsingh/assets/144260379/8eed9b2d-437b-41b8-98fd-2493287dbfef)
+# Henlo Peeps👋
+
+- 🚀 Android App Development with Kotlin and Compose
+- 🕸️ Web3 Development
+- 🌏 Python, Solidity, Rust, C++
+
+
 
 <!--
 **prabhsuratsingh/prabhsuratsingh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
