@@ -1,7 +1,6 @@
 ![_9ed65b7d-1bca-4f11-9ab9-26294207390c](https://github.com/prabhsuratsingh/prabhsuratsingh/assets/144260379/8eed9b2d-437b-41b8-98fd-2493287dbfef)
-# Henlo Peeps👋
-
-# 💫 About Me 
+# Henlo Peeps👋👻
+ 
 👨🏼‍💻 Pre-final year Computer Science Student from Delhi<br>🔭 Android Native App Developer, XR/MR with Unity<br>👯 Looking to collaborate on crazy projects out there<br>🌱 Currently learning ML and a lot of crazy stuff.<br>⚡ Fun Fact : Vim is fun😉<br>
 
 
