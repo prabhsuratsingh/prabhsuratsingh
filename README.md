@@ -5,7 +5,7 @@
 
 # Henlo Peeps👋👻
  
-👨🏼‍💻 Pre-final year Computer Science Student from Delhi<br>🔭 Android Native App Developer, XR/MR with Unity<br>👯 Looking to collaborate on crazy projects out there<br>🌱 Currently learning ML and a lot of crazy stuff.<br>⚡ Fun Fact : Vim is fun😉<br>
+👨🏼‍💻 Final year Computer Science Student from Delhi<br>🔭 Android Native App Developer, Backend Dev<br>👯 Looking to collaborate on crazy projects out there<br>🌱 Currently learning ML and a lot of crazy stuff.<br>⚡ Fun Fact : Vim is fun😉<br>
 
 
 # 💻 Tech Stack
