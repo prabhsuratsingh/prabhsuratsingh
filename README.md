@@ -2,12 +2,11 @@
 $ whoami
 Prabhsurat Singh
 Computer Science @ GGSIPU
-ML • Reinforcement Learning • LLMs • Backend Systems
+RL • Robot Learning • GPU • Backend Systems
 
 $ building
-> Reinforcement Learning algorithms and benchmarks
+> Robot Simulations and Benchmarks
 > GPU Kernels
-> LLM post-training (PPO / RLHF)
 > Distributed backend systems
 > AI developer tools
 
@@ -17,8 +16,8 @@ CUDA | Redis | Kafka | PostgreSQL
 
 $ currently
 Lead Engineer @ Heimatverse
-Researching RL fine-tuning for compact LLMs
-Playing around with CUDA and Robot Learning 
+Researching Robot Learning and GPU
+Playing around with LLM's  
 
 $ status
 Always building.
